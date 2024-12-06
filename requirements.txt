@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+pickle5
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
